@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Qamar%20Iqbal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=iOS%20%26%20Flutter%20Engineer%20%7C%20FinTech%20%26%20Consumer%20Apps%20%7C%20Data%20%26%20AI&descAlignY=58&descSize=18" alt="Qamar Iqbal - iOS and Flutter Engineer" />
+<h1>Qamar Iqbal</h1>
+<p><b>iOS &amp; Flutter Engineer</b> · FinTech &amp; Consumer Apps · Data &amp; AI</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=760&lines=Swift+%7C+SwiftUI+%7C+Flutter+%7C+Firebase;Apps+on+the+App+Store+since+2019;FinTech+%E2%80%A2+Payments+%E2%80%A2+Consumer+Apps;Now+adding+Python%2C+SQL+and+machine+learning" alt="Typing animation" /></a>
 
@@ -87,6 +88,5 @@ Open to iOS and Flutter roles, and to data roles where my app background is an a
 [![Email](https://img.shields.io/badge/qamar.iit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qamar.iit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamariit/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer" />
 
 </div>
