@@ -7,7 +7,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qamar.iit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamariit/)
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/id1459967129)
 [![Data portfolio](https://img.shields.io/badge/Data%20portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qib-fast)
 ![Location](https://img.shields.io/badge/Islamabad%2C%20Pakistan-UTC%2B5-lightgrey?style=for-the-badge)
@@ -85,7 +85,7 @@ One small, documented data project at a time: churn analysis, customer segmentat
 Open to iOS and Flutter roles, and to data roles where my app background is an asset.
 
 [![Email](https://img.shields.io/badge/qamar.iit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qamar.iit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamariit/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer" />
 
